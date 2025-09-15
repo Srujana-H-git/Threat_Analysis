@@ -1,0 +1,15 @@
+names:
+- airport
+- helicopter
+- plane
+- ship
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: final_dataset-8e5r1
+  url: https://universe.roboflow.com/threatanalysissubset/final_dataset-8e5r1/dataset/1
+  version: 1
+  workspace: threatanalysissubset
+test: C:\nmit\New folder\Final_dataset-1\test\images
+train: C:\nmit\New folder\Final_dataset-1\train\images
+val: C:\nmit\New folder\Final_dataset-1\valid\images
